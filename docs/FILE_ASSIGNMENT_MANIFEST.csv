@@ -1,0 +1,211 @@
+﻿Member,Module,Branch,OriginalArchivePath,RepositoryPath
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/PHONE_FIX_README.md,backend/PHONE_FIX_README.md
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Api/Controllers/ApplicationsController.cs,backend/RecruitmentPlatform.Api/Controllers/ApplicationsController.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Api/Controllers/CandidatesController.cs,backend/RecruitmentPlatform.Api/Controllers/CandidatesController.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Api/Controllers/ResumeAnalysisController.cs,backend/RecruitmentPlatform.Api/Controllers/ResumeAnalysisController.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Application/DTOs/Applications/ApplicationDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Applications/ApplicationDtos.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Application/DTOs/Candidates/CandidateDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Candidates/CandidateDtos.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Application/DTOs/ResumeAnalysis/ResumeAnalysisDtos.cs,backend/RecruitmentPlatform.Application/DTOs/ResumeAnalysis/ResumeAnalysisDtos.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Application/Interfaces/IFileStorageService.cs,backend/RecruitmentPlatform.Application/Interfaces/IFileStorageService.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Application/Interfaces/IResumeAnalysisService.cs,backend/RecruitmentPlatform.Application/Interfaces/IResumeAnalysisService.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Application/Interfaces/IResumeTextExtractionService.cs,backend/RecruitmentPlatform.Application/Interfaces/IResumeTextExtractionService.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Application/ResumeAnalysis/ResumeAnalysisResult.cs,backend/RecruitmentPlatform.Application/ResumeAnalysis/ResumeAnalysisResult.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Application/Storage/StoredFileResult.cs,backend/RecruitmentPlatform.Application/Storage/StoredFileResult.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Domain/Entities/CandidateProfile.cs,backend/RecruitmentPlatform.Domain/Entities/CandidateProfile.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Domain/Entities/CandidateSkill.cs,backend/RecruitmentPlatform.Domain/Entities/CandidateSkill.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Domain/Entities/JobApplication.cs,backend/RecruitmentPlatform.Domain/Entities/JobApplication.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Domain/Entities/Resume.cs,backend/RecruitmentPlatform.Domain/Entities/Resume.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721223647_AddResumeAnalysis.Designer.cs,backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721223647_AddResumeAnalysis.Designer.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721223647_AddResumeAnalysis.cs,backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721223647_AddResumeAnalysis.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Infrastructure/ResumeAnalysis/ResumeTextExtractionService.cs,backend/RecruitmentPlatform.Infrastructure/ResumeAnalysis/ResumeTextExtractionService.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Infrastructure/ResumeAnalysis/RuleBasedResumeAnalysisService.cs,backend/RecruitmentPlatform.Infrastructure/ResumeAnalysis/RuleBasedResumeAnalysisService.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Infrastructure/Storage/AzureBlobFileStorageService.cs,backend/RecruitmentPlatform.Infrastructure/Storage/AzureBlobFileStorageService.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Infrastructure/Storage/CloudStorageOptions.cs,backend/RecruitmentPlatform.Infrastructure/Storage/CloudStorageOptions.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Infrastructure/Storage/HybridFileStorageService.cs,backend/RecruitmentPlatform.Infrastructure/Storage/HybridFileStorageService.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/RecruitmentPlatform.Infrastructure/Storage/LocalFileStorageService.cs,backend/RecruitmentPlatform.Infrastructure/Storage/LocalFileStorageService.cs
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/SETUP_PHASE4.md,backend/SETUP_PHASE4.md
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/backend/SETUP_PHASE4_1_VALIDATION.md,backend/SETUP_PHASE4_1_VALIDATION.md
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/PHONE_FIX_README.md,frontend/PHONE_FIX_README.md
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/SETUP_FRONTEND_PHASE4.md,frontend/SETUP_FRONTEND_PHASE4.md
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/SETUP_FRONTEND_PHASE4_1_VALIDATION.md,frontend/SETUP_FRONTEND_PHASE4_1_VALIDATION.md
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/components/jobs/JobCard.jsx,frontend/src/components/jobs/JobCard.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/components/ui/Alert.jsx,frontend/src/components/ui/Alert.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/components/ui/ScoreBar.jsx,frontend/src/components/ui/ScoreBar.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/components/ui/Spinner.jsx,frontend/src/components/ui/Spinner.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/pages/candidate/BrowseJobsPage.jsx,frontend/src/pages/candidate/BrowseJobsPage.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/pages/candidate/CandidateDashboard.jsx,frontend/src/pages/candidate/CandidateDashboard.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/pages/candidate/CandidateProfilePage.jsx,frontend/src/pages/candidate/CandidateProfilePage.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/pages/candidate/JobDetailsPage.jsx,frontend/src/pages/candidate/JobDetailsPage.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/pages/candidate/MyApplicationsPage.jsx,frontend/src/pages/candidate/MyApplicationsPage.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/pages/candidate/RecommendationsPage.jsx,frontend/src/pages/candidate/RecommendationsPage.jsx
+1,Candidate Portal and Resume Management,feature/candidate-portal,SA/front end/project/src/pages/candidate/ResumeAnalysisPage.jsx,frontend/src/pages/candidate/ResumeAnalysisPage.jsx
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Api/Controllers/DepartmentsController.cs,backend/RecruitmentPlatform.Api/Controllers/DepartmentsController.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Api/Controllers/HiringManagersController.cs,backend/RecruitmentPlatform.Api/Controllers/HiringManagersController.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Api/Controllers/JobsController.cs,backend/RecruitmentPlatform.Api/Controllers/JobsController.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Api/Controllers/OrganizationsController.cs,backend/RecruitmentPlatform.Api/Controllers/OrganizationsController.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Api/Controllers/SkillsController.cs,backend/RecruitmentPlatform.Api/Controllers/SkillsController.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Application/DTOs/Departments/DepartmentDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Departments/DepartmentDtos.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Application/DTOs/HiringManagers/HiringManagerDtos.cs,backend/RecruitmentPlatform.Application/DTOs/HiringManagers/HiringManagerDtos.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Application/DTOs/Jobs/JobDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Jobs/JobDtos.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Application/DTOs/Organizations/OrganizationDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Organizations/OrganizationDtos.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Application/DTOs/Skills/SkillDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Skills/SkillDtos.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Application/Interfaces/IJobMatchingService.cs,backend/RecruitmentPlatform.Application/Interfaces/IJobMatchingService.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Application/Matching/JobMatchResult.cs,backend/RecruitmentPlatform.Application/Matching/JobMatchResult.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Domain/Entities/Department.cs,backend/RecruitmentPlatform.Domain/Entities/Department.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Domain/Entities/Job.cs,backend/RecruitmentPlatform.Domain/Entities/Job.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Domain/Entities/JobSkill.cs,backend/RecruitmentPlatform.Domain/Entities/JobSkill.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Domain/Entities/Organization.cs,backend/RecruitmentPlatform.Domain/Entities/Organization.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Domain/Entities/RecruiterProfile.cs,backend/RecruitmentPlatform.Domain/Entities/RecruiterProfile.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Domain/Entities/Skill.cs,backend/RecruitmentPlatform.Domain/Entities/Skill.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721210728_AddJobWorkMode.Designer.cs,backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721210728_AddJobWorkMode.Designer.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721210728_AddJobWorkMode.cs,backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721210728_AddJobWorkMode.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/RecruitmentPlatform.Infrastructure/Matching/JobMatchingService.cs,backend/RecruitmentPlatform.Infrastructure/Matching/JobMatchingService.cs
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/backend/SETUP_PHASE3_JOBS.md,backend/SETUP_PHASE3_JOBS.md
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/front end/project/SETUP_FRONTEND_PHASE3_JOBS.md,frontend/SETUP_FRONTEND_PHASE3_JOBS.md
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/front end/project/src/components/ui/Button.jsx,frontend/src/components/ui/Button.jsx
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/front end/project/src/components/ui/FormField.jsx,frontend/src/components/ui/FormField.jsx
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/front end/project/src/components/ui/Modal.jsx,frontend/src/components/ui/Modal.jsx
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/front end/project/src/pages/recruiter/CandidatesPage.jsx,frontend/src/pages/recruiter/CandidatesPage.jsx
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/front end/project/src/pages/recruiter/InterviewSchedulingPage.jsx,frontend/src/pages/recruiter/InterviewSchedulingPage.jsx
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/front end/project/src/pages/recruiter/ManageJobsPage.jsx,frontend/src/pages/recruiter/ManageJobsPage.jsx
+2,"Recruiter Portal, Jobs, and Matching",feature/recruiter-jobs,SA/front end/project/src/pages/recruiter/RecruiterDashboard.jsx,frontend/src/pages/recruiter/RecruiterDashboard.jsx
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Api/Controllers/EvaluationsController.cs,backend/RecruitmentPlatform.Api/Controllers/EvaluationsController.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Api/Controllers/HiringDecisionsController.cs,backend/RecruitmentPlatform.Api/Controllers/HiringDecisionsController.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Api/Controllers/InterviewsController.cs,backend/RecruitmentPlatform.Api/Controllers/InterviewsController.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Application/Communication/CalendarInviteRequest.cs,backend/RecruitmentPlatform.Application/Communication/CalendarInviteRequest.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Application/Communication/EmailMessage.cs,backend/RecruitmentPlatform.Application/Communication/EmailMessage.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Application/DTOs/Decisions/DecisionDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Decisions/DecisionDtos.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Application/DTOs/Evaluations/EvaluationDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Evaluations/EvaluationDtos.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Application/DTOs/Interviews/InterviewDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Interviews/InterviewDtos.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Application/Interfaces/ICalendarInviteService.cs,backend/RecruitmentPlatform.Application/Interfaces/ICalendarInviteService.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Application/Interfaces/IEmailService.cs,backend/RecruitmentPlatform.Application/Interfaces/IEmailService.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Domain/Entities/CandidateEvaluation.cs,backend/RecruitmentPlatform.Domain/Entities/CandidateEvaluation.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Domain/Entities/HiringDecision.cs,backend/RecruitmentPlatform.Domain/Entities/HiringDecision.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Domain/Entities/HiringManagerProfile.cs,backend/RecruitmentPlatform.Domain/Entities/HiringManagerProfile.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Domain/Entities/Interview.cs,backend/RecruitmentPlatform.Domain/Entities/Interview.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Domain/Entities/InterviewFeedback.cs,backend/RecruitmentPlatform.Domain/Entities/InterviewFeedback.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Infrastructure/Communication/CalendarInviteService.cs,backend/RecruitmentPlatform.Infrastructure/Communication/CalendarInviteService.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Infrastructure/Communication/SmtpEmailService.cs,backend/RecruitmentPlatform.Infrastructure/Communication/SmtpEmailService.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721221321_AddInterviewWorkflow.Designer.cs,backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721221321_AddInterviewWorkflow.Designer.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721221321_AddInterviewWorkflow.cs,backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721221321_AddInterviewWorkflow.cs
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/backend/SETUP_PHASE5.md,backend/SETUP_PHASE5.md
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/front end/project/SETUP_FRONTEND_PHASE5.md,frontend/SETUP_FRONTEND_PHASE5.md
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/front end/project/src/components/ui/Avatar.jsx,frontend/src/components/ui/Avatar.jsx
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/front end/project/src/components/ui/Badge.jsx,frontend/src/components/ui/Badge.jsx
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/front end/project/src/components/ui/Card.jsx,frontend/src/components/ui/Card.jsx
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/front end/project/src/pages/manager/DecisionsPage.jsx,frontend/src/pages/manager/DecisionsPage.jsx
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/front end/project/src/pages/manager/ManagerDashboard.jsx,frontend/src/pages/manager/ManagerDashboard.jsx
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/front end/project/src/pages/manager/ManagerInterviewsPage.jsx,frontend/src/pages/manager/ManagerInterviewsPage.jsx
+3,"Hiring Manager, Interviews, and Decisions",feature/hiring-manager,SA/front end/project/src/pages/manager/ShortlistPage.jsx,frontend/src/pages/manager/ShortlistPage.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Api/Controllers/AnalyticsController.cs,backend/RecruitmentPlatform.Api/Controllers/AnalyticsController.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Api/Controllers/AuditLogsController.cs,backend/RecruitmentPlatform.Api/Controllers/AuditLogsController.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Api/Controllers/NotificationsController.cs,backend/RecruitmentPlatform.Api/Controllers/NotificationsController.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Api/Controllers/SystemMonitoringController.cs,backend/RecruitmentPlatform.Api/Controllers/SystemMonitoringController.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Api/Controllers/UsersController.cs,backend/RecruitmentPlatform.Api/Controllers/UsersController.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Application/DTOs/Analytics/AnalyticsDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Analytics/AnalyticsDtos.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Application/DTOs/Audit/AuditLogDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Audit/AuditLogDtos.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Application/DTOs/Monitoring/MonitoringDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Monitoring/MonitoringDtos.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Application/DTOs/Notifications/NotificationDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Notifications/NotificationDtos.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Application/DTOs/Users/UserManagementDtos.cs,backend/RecruitmentPlatform.Application/DTOs/Users/UserManagementDtos.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Domain/Entities/AuditLog.cs,backend/RecruitmentPlatform.Domain/Entities/AuditLog.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/RecruitmentPlatform.Domain/Entities/Notification.cs,backend/RecruitmentPlatform.Domain/Entities/Notification.cs
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/backend/SETUP_PHASE6.md,backend/SETUP_PHASE6.md
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/SETUP_FRONTEND_PHASE6.md,frontend/SETUP_FRONTEND_PHASE6.md
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/App.jsx,frontend/src/App.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/components/layout/DashboardLayout.jsx,frontend/src/components/layout/DashboardLayout.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/components/layout/Header.jsx,frontend/src/components/layout/Header.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/components/layout/Sidebar.jsx,frontend/src/components/layout/Sidebar.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/index.css,frontend/src/index.css
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/main.jsx,frontend/src/main.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/NotFoundPage.jsx,frontend/src/pages/NotFoundPage.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/ProfilePage.jsx,frontend/src/pages/ProfilePage.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/UnauthorizedPage.jsx,frontend/src/pages/UnauthorizedPage.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/admin/AdminDashboard.jsx,frontend/src/pages/admin/AdminDashboard.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/admin/AnalyticsPage.jsx,frontend/src/pages/admin/AnalyticsPage.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/admin/AuditLogsPage.jsx,frontend/src/pages/admin/AuditLogsPage.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/admin/DepartmentsPage.jsx,frontend/src/pages/admin/DepartmentsPage.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/admin/MonitoringPage.jsx,frontend/src/pages/admin/MonitoringPage.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/admin/OrganizationsPage.jsx,frontend/src/pages/admin/OrganizationsPage.jsx
+4,"Administrator, Analytics, and Monitoring",feature/admin-monitoring,SA/front end/project/src/pages/admin/UsersPage.jsx,frontend/src/pages/admin/UsersPage.jsx
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Api/Controllers/AuthController.cs,backend/RecruitmentPlatform.Api/Controllers/AuthController.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Api/Controllers/HealthController.cs,backend/RecruitmentPlatform.Api/Controllers/HealthController.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Api/Program.cs,backend/RecruitmentPlatform.Api/Program.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Api/Properties/launchSettings.json,backend/RecruitmentPlatform.Api/Properties/launchSettings.json
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Api/RecruitmentPlatform.Api.csproj,backend/RecruitmentPlatform.Api/RecruitmentPlatform.Api.csproj
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Api/RecruitmentPlatform.Api.http,backend/RecruitmentPlatform.Api/RecruitmentPlatform.Api.http
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Api/WeatherForecast.cs,backend/RecruitmentPlatform.Api/WeatherForecast.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Api/appsettings.Development.json,backend/RecruitmentPlatform.Api/appsettings.Development.json
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Api/appsettings.json,backend/RecruitmentPlatform.Api/appsettings.json
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Application/Class1.cs,backend/RecruitmentPlatform.Application/Class1.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Application/DTOs/Auth/AuthResponse.cs,backend/RecruitmentPlatform.Application/DTOs/Auth/AuthResponse.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Application/DTOs/Auth/AuthUserResponse.cs,backend/RecruitmentPlatform.Application/DTOs/Auth/AuthUserResponse.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Application/DTOs/Auth/LoginRequest.cs,backend/RecruitmentPlatform.Application/DTOs/Auth/LoginRequest.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Application/DTOs/Auth/RegisterRequest.cs,backend/RecruitmentPlatform.Application/DTOs/Auth/RegisterRequest.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Application/Interfaces/IJwtTokenService.cs,backend/RecruitmentPlatform.Application/Interfaces/IJwtTokenService.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Application/RecruitmentPlatform.Application.csproj,backend/RecruitmentPlatform.Application/RecruitmentPlatform.Application.csproj
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Application/Security/JwtTokenResult.cs,backend/RecruitmentPlatform.Application/Security/JwtTokenResult.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Application/Validation/ValidationRules.cs,backend/RecruitmentPlatform.Application/Validation/ValidationRules.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Domain/Class1.cs,backend/RecruitmentPlatform.Domain/Class1.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Domain/Common/BaseEntity.cs,backend/RecruitmentPlatform.Domain/Common/BaseEntity.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Domain/Enums/RecruitmentEnums.cs,backend/RecruitmentPlatform.Domain/Enums/RecruitmentEnums.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Domain/RecruitmentPlatform.Domain.csproj,backend/RecruitmentPlatform.Domain/RecruitmentPlatform.Domain.csproj
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/Authentication/JwtTokenService.cs,backend/RecruitmentPlatform.Infrastructure/Authentication/JwtTokenService.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/Class1.cs,backend/RecruitmentPlatform.Infrastructure/Class1.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/Data/ApplicationDbContext.cs,backend/RecruitmentPlatform.Infrastructure/Data/ApplicationDbContext.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/Data/DatabaseSeeder.cs,backend/RecruitmentPlatform.Infrastructure/Data/DatabaseSeeder.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721201910_InitialCreate.Designer.cs,backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721201910_InitialCreate.Designer.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721201910_InitialCreate.cs,backend/RecruitmentPlatform.Infrastructure/Data/Migrations/20260721201910_InitialCreate.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/Data/Migrations/ApplicationDbContextModelSnapshot.cs,backend/RecruitmentPlatform.Infrastructure/Data/Migrations/ApplicationDbContextModelSnapshot.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/DependencyInjection.cs,backend/RecruitmentPlatform.Infrastructure/DependencyInjection.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/Identity/ApplicationUser.cs,backend/RecruitmentPlatform.Infrastructure/Identity/ApplicationUser.cs
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.Infrastructure/RecruitmentPlatform.Infrastructure.csproj,backend/RecruitmentPlatform.Infrastructure/RecruitmentPlatform.Infrastructure.csproj
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/backend/RecruitmentPlatform.slnx,backend/RecruitmentPlatform.slnx
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/front end/project/src/components/auth/ProtectedRoute.jsx,frontend/src/components/auth/ProtectedRoute.jsx
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/front end/project/src/context/AuthContext.jsx,frontend/src/context/AuthContext.jsx
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/front end/project/src/pages/auth/LoginPage.jsx,frontend/src/pages/auth/LoginPage.jsx
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/front end/project/src/pages/auth/RegisterPage.jsx,frontend/src/pages/auth/RegisterPage.jsx
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/front end/project/src/services/authService.js,frontend/src/services/authService.js
+5,"Authentication, Security, and Database",feature/auth-security-database,SA/front end/project/src/utils/validation.js,frontend/src/utils/validation.js
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/.gitignore.phase7,backend/.gitignore.phase7
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Api/Controllers/CandidateFeedbackController.cs,backend/RecruitmentPlatform.Api/Controllers/CandidateFeedbackController.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Application/AI/CandidateFeedbackContext.cs,backend/RecruitmentPlatform.Application/AI/CandidateFeedbackContext.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Application/AI/CandidateFeedbackResult.cs,backend/RecruitmentPlatform.Application/AI/CandidateFeedbackResult.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Application/DTOs/AiFeedback/AiFeedbackDtos.cs,backend/RecruitmentPlatform.Application/DTOs/AiFeedback/AiFeedbackDtos.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Application/Interfaces/ICandidateFeedbackService.cs,backend/RecruitmentPlatform.Application/Interfaces/ICandidateFeedbackService.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Infrastructure/AI/AiProviderOptions.cs,backend/RecruitmentPlatform.Infrastructure/AI/AiProviderOptions.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Infrastructure/AI/HybridCandidateFeedbackService.cs,backend/RecruitmentPlatform.Infrastructure/AI/HybridCandidateFeedbackService.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Infrastructure/AI/OpenAiCandidateFeedbackClient.cs,backend/RecruitmentPlatform.Infrastructure/AI/OpenAiCandidateFeedbackClient.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Infrastructure/AI/RuleBasedCandidateFeedbackService.cs,backend/RecruitmentPlatform.Infrastructure/AI/RuleBasedCandidateFeedbackService.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Tests/Feedback/RuleBasedCandidateFeedbackServiceTests.cs,backend/RecruitmentPlatform.Tests/Feedback/RuleBasedCandidateFeedbackServiceTests.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Tests/Integration/AuthenticationAuthorizationTests.cs,backend/RecruitmentPlatform.Tests/Integration/AuthenticationAuthorizationTests.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Tests/Integration/RecruitmentApiFactory.cs,backend/RecruitmentPlatform.Tests/Integration/RecruitmentApiFactory.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Tests/Matching/JobMatchingServiceTests.cs,backend/RecruitmentPlatform.Tests/Matching/JobMatchingServiceTests.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Tests/RecruitmentPlatform.Tests.csproj,backend/RecruitmentPlatform.Tests/RecruitmentPlatform.Tests.csproj
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Tests/ResumeAnalysis/RuleBasedResumeAnalysisServiceTests.cs,backend/RecruitmentPlatform.Tests/ResumeAnalysis/RuleBasedResumeAnalysisServiceTests.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Tests/UnitTest1.cs,backend/RecruitmentPlatform.Tests/UnitTest1.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/RecruitmentPlatform.Tests/Validation/DtoValidationTests.cs,backend/RecruitmentPlatform.Tests/Validation/DtoValidationTests.cs
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/SETUP_PHASE1.md,backend/SETUP_PHASE1.md
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/SETUP_PHASE2_AUTH.md,backend/SETUP_PHASE2_AUTH.md
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/SETUP_PHASE7.md,backend/SETUP_PHASE7.md
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/docs/EXTERNAL_INTEGRATIONS.md,backend/docs/EXTERNAL_INTEGRATIONS.md
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/docs/TEST_PLAN.md,backend/docs/TEST_PLAN.md
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/postman/RecruitmentPlatform_Local.postman_environment.json,backend/postman/RecruitmentPlatform_Local.postman_environment.json
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/backend/postman/RecruitmentPlatform_Phase7.postman_collection.json,backend/postman/RecruitmentPlatform_Phase7.postman_collection.json
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/.bolt/config.json,frontend/.bolt/config.json
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/.env.example,frontend/.env.example
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/.gitignore,frontend/.gitignore
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/README.md,frontend/README.md
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/SETUP_FRONTEND_AUTH.md,frontend/SETUP_FRONTEND_AUTH.md
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/SETUP_FRONTEND_PHASE7.md,frontend/SETUP_FRONTEND_PHASE7.md
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/eslint.config.js,frontend/eslint.config.js
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/index.html,frontend/index.html
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/package-lock.json,frontend/package-lock.json
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/package.json,frontend/package.json
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/public/vite.svg,frontend/public/vite.svg
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/src/assets/react.svg,frontend/src/assets/react.svg
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/src/hooks/useAsync.js,frontend/src/hooks/useAsync.js
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/src/pages/shared/AiFeedbackPage.jsx,frontend/src/pages/shared/AiFeedbackPage.jsx
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/src/services/api.js,frontend/src/services/api.js
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/src/services/mockData.js,frontend/src/services/mockData.js
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/src/services/services.js,frontend/src/services/services.js
+6,"AI Feedback, Testing, Postman, and Documentation",feature/ai-testing-docs,SA/front end/project/vite.config.js,frontend/vite.config.js
